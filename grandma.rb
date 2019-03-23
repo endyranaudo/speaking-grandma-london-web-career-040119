@@ -1,7 +1,8 @@
 # Write a speak_to_grandma method.
 
 def speak_to_grandma(str)
-  if str == 
+  if str == "I LOVE YOU GRANDMA!"
+    puts 
 end
   
 # Whatever you say to grandma, she should respond with
