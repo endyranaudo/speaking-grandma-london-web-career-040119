@@ -2,9 +2,9 @@
 
 def speak_to_grandma(str)
   if str == "I LOVE YOU GRANDMA!"
-    puts "I LOVE YOU TOO PUMPKIN!"
+   "I LOVE YOU TOO PUMPKIN!"
   elsif str != str.upcase
-    puts "HUH?! SPEAK UP, SONNY!"
+    "HUH?! SPEAK UP, SONNY!"
   end
 end
   
